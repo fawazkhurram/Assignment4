@@ -1,0 +1,46 @@
+Sending command: date
+
+Client: 25289
+Date: 04/29/2019
+Time: 01:57:46
+Result of command receive by client
+Mon Apr 29 01:57:46 CDT 2019
+
+Sending command: ls -l
+
+Client: 25289
+Date: 04/29/2019
+Time: 01:57:46
+Result of command receive by client
+total 39
+
+Sending command: ls | wc
+
+Client: 25289
+Date: 04/29/2019
+Time: 01:57:46
+Result of command receive by client
+-rw-------+ 1 fxk170000 sn  2271 Apr 29 01:04 a4client2.c
+-rw-------+ 1 fxk170000 sn  2827 Apr 29 01:03 a4server2.c
+-rwx--x--x+ 1 fxk170000 sn 13544 Apr 29 01:38 client
+-rw-------+ 1 fxk170000 sn   570 Apr 29 01:57 Client1Log.txt
+-rw-------+ 1 fxk170000 sn     0 Apr 29 01:57 Client2Log.txt
+-rw-------+ 1 fxk170000 sn    38 Apr 28 23:26 Command-File1
+
+Sending command: end
+
+Client: 25289
+Date: 04/29/2019
+Time: 01:57:46
+Result of command receive by client
+-rw-------+ 1 fxk170000 sn    24 Apr 28 23:28 Command-File2
+-rwx--x--x+ 1 fxk170000 sn 13704 Apr 29 01:38 server
+
+Sending command: 
+
+Client: 25289
+Date: 04/29/2019
+Time: 01:57:46
+Result of command receive by client
+      8       8      96
+

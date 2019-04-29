@@ -1,0 +1,40 @@
+Sending command: date
+
+Client: 25219
+Date: 04/29/2019
+Time: 01:57:38
+Result of command receive by client
+Mon Apr 29 01:57:38 CDT 2019
+
+Sending command: ls /etc | wc
+
+Client: 25219
+Date: 04/29/2019
+Time: 01:57:38
+Result of command receive by client
+    388     388    4090
+
+Sending command: ls /etc | head 
+
+Client: 25219
+Date: 04/29/2019
+Time: 01:57:38
+Result of command receive by client
+1
+
+Sending command: end
+
+Client: 25219
+Date: 04/29/2019
+Time: 01:57:38
+Result of command receive by client
+a2ps
+a2ps.cfg
+a2ps-site.cfg
+abrt
+acpi
+adjtime
+akonadi
+aliases
+aliases.db
+
